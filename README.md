@@ -4,8 +4,8 @@
 async function introduction() : Promise<void> {
     const yourName = await prompt("Please enter your name");
 
-    const learning : String[] = [ "Rust", "C++", "Go" ];
-    const doing : String[] = [ "Typescript", "Javascript", "Go" ];
+    const learning : String[] = [ "Rust" ];
+    const doing : String[] = [ "Typescript", "Javascript", "Rust" ];
 
     process.stdout.write(`
     Hi ${yourName}, I am Atsukoro 👋, a 17 years web developer mainly focusing on backend but I do frontend pretty well too.
