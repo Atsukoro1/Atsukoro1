@@ -1,18 +1,14 @@
-### Hi, my name is Atsukoro 👋
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Jakub also known as Atsukoro</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
 
-```typescript
-async function introduction() : Promise<void> {
-    const yourName = await prompt("Please enter your name");
+<p align="center">
+  <a href="https://github.com/Atsukoro1"><img src="https://github-readme-stats.vercel.app/api?username=atsukoro1&hide_border=true&show_icons=true" alt="atsukoro's github stats"></a>
+</p>
 
-    const learning : String[] = [ "Rust" ];
-    const doing : String[] = [ "Typescript", "Javascript", "Rust" ];
+<p align="center">
+  <strong><a href="https://atsukoro1.github.io/">Personal website</a></strong> |
+  <strong><a>Discord - Atsukoro#6323</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/jakub-dornicak-b6953423b/">LinkedIn</a></strong> |
+</p>
 
-    process.stdout.write(`
-    Hi ${yourName}, I am Atsukoro 👋, a 17 years web developer mainly focusing on backend but I do frontend pretty well too.
-    If you want to discuss something with me, you can contact me on my Discord (Atsukoro#6323)
-
-    💻 Languages I am learning now are ${learning.join(", ")} and currently using ${doing.join(", ")}!
-    If you want to lookup my full stack, you can find it here at this link https://stackshare.io/atsukoro1/my-stack
-    `);
-}
-```
+<p align="center">My current interests are Web development, Linux (Ricing) and Networking.</p>
