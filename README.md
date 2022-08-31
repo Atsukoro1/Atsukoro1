@@ -2,7 +2,7 @@
 > pfetch
 ```
 <div style="border-radius: 10px;">
-  <img align="left" src="https://i.postimg.cc/YqvHHS9V/arona.png" alt="logo.png" width="200" height="200"/>
+  <img align="left" src="https://i.postimg.cc/1Rd94d8f/tux.png" alt="logo.png" width="200" height="200"/>
 </div>
 
 ```csharp
