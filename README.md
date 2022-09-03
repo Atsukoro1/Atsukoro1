@@ -6,11 +6,11 @@
 Atsukoro1@github
 --------------
 
-      /\\          OS:        Artix linux
+      /\\          OS:        Manjaro linux
      /  \\         Kernel:    5.9.10-zen1-1-zen
     /`'.,\\        WM:        dwm
-   /     ',        Shell:     fish
+   /     ',        Shell:     zsh
   /      ,`\\      Terminal:  alacritty
  /   ,.'`.  \\     Languages: Rust, Typescript
-/.,'`     `'.\\    Revolt:    Atsukoro
+/.,'`     `'.\\    Discord:    Atsukoro#6323
 ```
