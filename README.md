@@ -1,11 +1,11 @@
-My name's Jakub, and I'm a programmer with a passion for Rust and Typescript. I'm also interested in Cybersecurity and related topics.
+Greetings, my name is Jakub, and I am a proficient programmer with a keen interest in Rust and Typescript. My areas of focus also include Cybersecurity and related subjects.
 
-In my leisure time, I find myself occupied with a variety of activities such as completing challenges on HackTheBox, programming, studying for school, and playing Etterna. These pursuits not only keep me busy, but also provide an enjoyable way to pass the time.
+During my downtime, I engage in a diverse range of activities such as tackling challenges on HackTheBox, programming, pursuing academic studies, and playing Etterna. These endeavors not only maintain my engagement, but also offer a stimulating way to utilize my free time.
 
-I have experience in fullstack web development and desktop application development.
+I possess expertise in both full-stack web development and desktop application development.
 
-My projects are an exciting combination of cutting-edge technology, making them ideal for developers and IT professionals alike. From the Tiktok clone, a fullstack project with Nuxt, Nest.js, Neo4J, and Redis, to CNVM, a Node.js version manager written in Rust, to Netscrape, a powerful command line tool written in C for sniffing and printing incoming packets, you're sure to find something to suit your needs. With these projects, you can easily keep up with the latest trends and stay ahead of the competition!
+My projects embody an innovative fusion of state-of-the-art technology, rendering them highly suitable for developers and IT professionals alike. From the Tiktok replica—a full-stack project utilizing Nuxt, Nest.js, Neo4J, and Redis—to CNVM, a Node.js version manager developed in Rust, and Netscrape, an advanced command-line utility crafted in C for capturing and displaying incoming packets, there is a project to meet diverse requirements. By leveraging these projects, you can readily stay abreast of the latest advancements and maintain a competitive edge!
 
-Feel free to check out the three projects pinned below this README, these are probably the ones that I am most proud of.
+I invite you to explore the three highlighted projects below this README, as they represent some of my proudest achievements.
 
-Thanks for visiting!
+Thank you for your visit!
