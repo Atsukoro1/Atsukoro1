@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-My name is Jakub, and I'm a programmer with a passion for Rust and Typescript. I'm also interested in Cybersecurity and related topics.
+My name's Jakub, and I'm a programmer with a passion for Rust and Typescript. I'm also interested in Cybersecurity and related topics.
 
 In my leisure time, I find myself occupied with a variety of activities such as completing challenges on HackTheBox, programming, studying for school, and playing Etterna. These pursuits not only keep me busy, but also provide an enjoyable way to pass the time.
 
