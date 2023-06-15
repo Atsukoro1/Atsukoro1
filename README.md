@@ -1,9 +1,1 @@
-Greetings, my name is Jakub, and I am a proficient programmer with a keen interest in Rust and Typescript. My areas of focus also include Cybersecurity and related subjects.
-
-During my downtime, I engage in a diverse range of activities such as tackling challenges on HackTheBox, programming, pursuing academic studies, and playing Etterna. These endeavors not only maintain my engagement, but also offer a stimulating way to utilize my free time.
-
-I possess expertise in both full-stack web development and desktop application development.
-
-My projects embody an innovative fusion of state-of-the-art technology, rendering them highly suitable for developers and IT professionals alike. From the Tiktok replica—a full-stack project utilizing Nuxt, Nest.js, Neo4J, and Redis—to CNVM, a Node.js version manager developed in Rust, and Netscrape, an advanced command-line utility crafted in C for capturing and displaying incoming packets, there is a project to meet diverse requirements. By leveraging these projects, you can readily stay abreast of the latest advancements and maintain a competitive edge!
-
-Thank you for your visit!
+Jmenuji se Jakub Dorničák a jsem 18letý student a nadšenec do technologií. Své znalosti a dovednosti jsem vybudoval v oblasti Web developmentu, konkrétně umím pracovat v TypeScriptu, JavaScriptu, Node.js, Reactu, Next.js, Nest.js a s NoSQL databázema jako MongoDB a MySQL. Když jde o databáze, nebojím se také použít jakýkoli ORM. Mám bohaté zkušenosti s verzovacím systémem GIT. Mým cílem je neustále se posouvat vpřed a přinášet inovativní řešení v oblasti vývoje software. S touhou učit se nové věci a neustále se zdokonalovat jsem připraven přijmout nové výzvy a aktivně přispět k úspěchu projektu.
