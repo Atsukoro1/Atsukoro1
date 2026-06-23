@@ -1,7 +1,3 @@
-# Hi, I'm a Fullstack Developer 👋
-
-**TypeScript • React • Next.js • Node.js**
-
 ---
 
 ## About Me
